@@ -19,7 +19,7 @@ This is a community project that provides a powerful command-line interface for 
 
 - [Microsoft Intune](https://hardening.thomas-illiet.fr/Configuration/Backend/Microsoft-Intune/)
 - [Powershell DSC](https://hardening.thomas-illiet.fr/Configuration/Backend/Powershell-DSC/)
-- [Powerhsell](https://hardening.thomas-illiet.fr/Configuration/Backend/Powershell/)
+- [Powershell](https://hardening.thomas-illiet.fr/Configuration/Backend/Powershell/)
 - [Puppet](https://hardening.thomas-illiet.fr/Configuration/Backend/Puppet/)
 
 ## Contributors
